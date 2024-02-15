@@ -1,12 +1,12 @@
 # Getting an Account
 Connecting to Borah requires an account for that cluster provided by Research Computing.
-To request an account, please email researchcomputing@boisestate.edu with the following information:
+To request an account, please [fill out this form](https://boisestatedev.service-now.com/bsu_sp?id=sc_cat_item&sys_id=7a5d092b1b788014ebb48663cc4bcbd1) or email researchcomputing@boisestate.edu with the following information:
 
-  - Name of requestor
-  - Cluster you are requesting an account on
-  - Research project name or grant information
-  - Name of your PI
-  - Email address of requestor
+  - Requestor Name
+  - Research Advisor's Name
+  - Department
+  - System you are requesting an account on
+  - Short description of research
 
 In order to grant access, the HPC administrator will verify that you are a valid user by contacting the project’s PI.
 When on the Boise State campus, the campus clusters can be accessed from most wired computers or from the secured Eduroam Wi-Fi network.
