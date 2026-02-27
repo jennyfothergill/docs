@@ -1,11 +1,10 @@
 # Open OnDemand
 
-Open OnDemand is a web portal that provides a graphical user interface (GUI) to a supercomputer cluster.
+Open OnDemand is a web portal that provides a graphical user interface (GUI) to a supercomputer.
 This open-source project is developed and maintained by the Ohio Supercomputer Center (OSC); you can learn more at [https://openondemand.org/](https://openondemand.org/){:target="_blank"}.
 
 You can access the Open OnDemand portal for Borah at [ondemand.boisestate.edu](https://ondemand.boisestate.edu){:target="_blank"}.
 
-![ondemand login screen](images/ood-login.png "Ondemand login screen")
 
 ## The Dashboard
 
