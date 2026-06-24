@@ -29,6 +29,7 @@ nav:
     - 'training.md'
     - 'linux.md'
     - 'glossary.md'
+    - 'mapping_drive.md'
 theme:
   name: material
   logo: images/boisestate-B-1color-orange-rgb.png
