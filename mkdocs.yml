@@ -16,7 +16,7 @@ nav:
     - 'software/conda.md'
     - 'software/julia.md'
     - 'software/r.md'
-    - 'software/abyss.md'
+    - 'software/vscode.md'
     - 'software/alphafold.md'
     - 'software/gromacs.md'
     - 'software/matlab.md'
@@ -25,6 +25,7 @@ nav:
     - 'software/vasp.md'
     - 'software/apptainer.md'
     - 'software/c.md'
+    - 'software/abyss.md'
   - 'Resources':
     - 'training.md'
     - 'linux.md'
