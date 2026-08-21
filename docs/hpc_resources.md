@@ -16,8 +16,9 @@ The cluster is located at the Idaho National Laboratory’s Collaborative Comput
 
 In addition to the above infrastructure, the Borah system also has another 68 CPU nodes owned by our industry partner, Idaho Power. When not in use by Idaho Power, Boise State researchers have access to up to 34 Idaho Power CPU nodes for their research. Borah also has various condo nodes, which are available through the short queues.
 
-## Falcon
-Idaho National Laboratory makes the Top 500 supercomputer known as “Falcon” available to Boise State researchers. For help setting up accounts, requesting allocations or access to Falcon, visit [https://www.c3plus3.org/falcon/](https://www.c3plus3.org/falcon/) or contact the Research Computing Support Department at [Help@c3plus3.org](mailto:help@c3plus3.org){:target="_blank"}.
+## C3+3
+The Lemhi supercomputer is the latest machine that Idaho National Laboratory has turned over to the C3+3 collaboration for management. 
+For help setting up accounts, requesting allocations or access to Lemhi, visit [https://docs.c3plus3.org/docs/general/Account/](https://docs.c3plus3.org/docs/general/Account/) or contact [Help@c3plus3.org](mailto:help@c3plus3.org){:target="_blank"}.
 
 ## ACCESS
 ACCESS is the successor to the XSEDE program which provides a variety of cyberinfrastructure resources. More information on ACCESS can be found [here](https://access-ci.org/){:target="_blank"}.
