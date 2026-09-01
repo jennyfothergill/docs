@@ -26,6 +26,7 @@ extension.
 ## 3. Configure SSH
 
 Your SSH configuration file can be found at the following location:
+
 - MacOS / Linux: `~/.ssh/config`
 - Windows: `C:\Users\USERNAME\.ssh\config`
 
@@ -78,6 +79,7 @@ Host borah-gpu
 ## 4. Connect
 
 In VS Code, open the remote explorer and select one of the following:
+
 - `borah-compute`: A default Borah compute node
 - `borah-gpu`: An L40 GPU node
 
