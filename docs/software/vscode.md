@@ -2,7 +2,7 @@
 
 To use an IDE on Borah, please either use the 
 [OnDemand VS Code app](../open_ondemand.md/#vs-code-server) 
-or modify your ssh configuration settings to connect to the cluster through a 
+or modify your SSH configuration settings to connect to the cluster through a 
 slurm job.
 
 Configuring the remote IDE server to work within a slurm allocation and 
