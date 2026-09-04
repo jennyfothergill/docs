@@ -1,4 +1,5 @@
 site_name: Boise State Research Computing
+site_url: https://hpc.boisestate.edu
 nav:
   - Home: 'index.md'
   - 'Cluster Guide':
@@ -32,6 +33,10 @@ nav:
     - 'glossary.md'
     - 'mapping_drive.md'
 theme:
+  features:
+    - navigation.instant
+    - navigation.sections
+    - toc.integrate
   name: material
   logo: images/boisestate-B-1color-orange-rgb.png
   favicon: images/boisestate-B-1color-orange-rgb.png
@@ -58,7 +63,7 @@ copyright: <b>Research Computing</b><br>Riverfront Hall, Room 209, 1987 W Cesar 
 markdown_extensions:
   - attr_list
   - toc:
-      permalink: True
+      permalink: true
   - admonition
   - pymdownx.details
   - pymdownx.superfences

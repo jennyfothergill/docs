@@ -41,7 +41,7 @@ When you do this, you will give your endpoint a name and search for that endpoin
 While we give some basic instructions below, please email researchcomputing@boisestate.edu if you want to use Globus to share data on your computer with an outside collaborator.
 
 ### Log in to Globus Using Your Boise State Credentials
-1. Go to [www.globus.org](https://www.globus.org){:target="_blank"}
+1. Go to [Globus](https://www.globus.org){:target="_blank"}
 
 2. Click Login (upper right)
 
@@ -64,14 +64,18 @@ Or, if your data is on your desktop, see instructions “C. Installing a Persona
 - Borah-DTN (connected to Borah at C3 in Idaho Falls)
 
 ### Using Globus Personal Endpoint to Transfer Data from Your Desktop to Existing Endpoints
-1. Install Globus Personal Connect by going to: [https://www.globus.org/globus-connect-personal](https://www.globus.org/globus-connect-personal){:target="_blank"}
-    - Windows: [https://docs.globus.org/how-to/globus-connect-personal-windows](https://docs.globus.org/how-to/globus-connect-personal-windows){:target="_blank"}
-    - macOS:   [https://docs.globus.org/how-to/globus-connect-personal-mac](https://docs.globus.org/how-to/globus-connect-personal-mac){:target="_blank"}
-    - Linux:   [https://docs.globus.org/how-to/globus-connect-personal-linux](https://docs.globus.org/how-to/globus-connect-personal-linux){:target="_blank"}
-2. Log in using Boise State username and password. **NOTE:** Do not mark computer as having sensitive personal files.
+1. Install [Globus Connect Personal](https://www.globus.org/globus-connect-personal){:target="_blank"}
+    - [Globus Connect Personal for Windows](https://docs.globus.org/how-to/globus-connect-personal-windows){:target="_blank"}
+    - [Globus Connect Personal for macOS](https://docs.globus.org/how-to/globus-connect-personal-mac){:target="_blank"}
+    - [Globus Connect Personal for Linux](https://docs.globus.org/how-to/globus-connect-personal-linux){:target="_blank"}
+2. Log in using Boise State username and password. 
+
+    !!! warning
+        Do not mark computer as having sensitive personal files.
+
 3. Follow the instructions of step 2, except change the Research Share collection to the new personal collection that was created when setting up Globus Personal Connect.
 
-For more information, visit Globus’s documentation contents page [https://docs.globus.org/how-to/](https://docs.globus.org/how-to/){:target="_blank"} or email researchcomputing@boisestate.edu.
+For more information, visit [Globus’s documentation](https://docs.globus.org/how-to/){:target="_blank"} or email researchcomputing@boisestate.edu.
 
 ## Rclone
 `rclone` is a command-line program that syncs files and directories between different cloud storage providers or between your local machine and a cloud provider.
