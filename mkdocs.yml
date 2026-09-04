@@ -32,9 +32,10 @@ nav:
     - 'glossary.md'
     - 'mapping_drive.md'
 theme:
-  name: material
+  name: materialx
   logo: images/boisestate-B-1color-orange-rgb.png
   favicon: images/boisestate-B-1color-orange-rgb.png
+  topbar_style: primary
   palette:
   - scheme: default
     toggle:
