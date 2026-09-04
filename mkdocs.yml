@@ -62,6 +62,8 @@ extra:
 copyright: <b>Research Computing</b><br>Riverfront Hall, Room 209, 1987 W Cesar Chavez Ln, Boise, ID 83725<hr>
 markdown_extensions:
   - attr_list
+  - toc:
+    permalink: true
   - admonition
   - pymdownx.details
   - pymdownx.superfences
