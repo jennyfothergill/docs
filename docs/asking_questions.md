@@ -67,10 +67,10 @@ Please start a new email for each issue you encounter.
 ## The XY problem
 
 This is a classic problem.
-Please read more about the XY problem [here](https://xyproblem.info/){:target="_blank"}.
+Please read more about [the XY problem](https://xyproblem.info/){:target="_blank"}.
 Often we know the solution but sometimes we don't know the problem.
 
-In short (quoting from the previous website):
+In short:
 
 > User wants to do X.
 >
@@ -83,6 +83,8 @@ In short (quoting from the previous website):
 > Others try to help user with Y, but are confused because Y seems like a strange problem to want to solve.
 >
 > Finally, the issue is solved by doing X without Y.
+>
+> <cite>[the XY problem](https://xyproblem.info/){:target="_blank"}</cite>
 
 To avoid the XY problem, if you struggle with Y but really what you are after is X, please also tell us about X.
 Tell us what you really want to achieve.

@@ -18,10 +18,10 @@ In addition to the above infrastructure, the Borah system also has another 68 CP
 
 ## C3+3
 The Lemhi supercomputer is the latest machine that Idaho National Laboratory has turned over to the C3+3 collaboration for management. 
-For help setting up accounts, requesting allocations or access to Lemhi, visit [https://docs.c3plus3.org/docs/general/Account/](https://docs.c3plus3.org/docs/general/Account/) or contact [Help@c3plus3.org](mailto:help@c3plus3.org){:target="_blank"}.
+[Request a Lemhi account](https://docs.c3plus3.org/docs/general/Account/) or contact [Help@c3plus3.org](mailto:help@c3plus3.org){:target="_blank"} for more information.
 
 ## ACCESS
-ACCESS is the successor to the XSEDE program which provides a variety of cyberinfrastructure resources. More information on ACCESS can be found [here](https://access-ci.org/){:target="_blank"}.
+ACCESS is the successor to the XSEDE program which provides a variety of cyberinfrastructure resources. [More information about ACCESS](https://access-ci.org/){:target="_blank"}.
 
 ## RMACC
 The Alpine Supercomputer is funded by the University of Colorado Boulder (CU), the University of Colorado Anschutz, Colorado State University, and the National Science Foundation (NSF). The supercomputer is available to members of RMACC (Rocky Mountain Advanced Computing Consortium), which includes Boise State researchers. To access Alpine visit [the CU Research Computing documentation](https://curc.readthedocs.io/en/latest/getting_started/logging-in.html){:target="_blank"} and switch to the 'RMACC' tab to find more infos.

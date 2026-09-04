@@ -1,7 +1,6 @@
 # Open OnDemand
 
-Open OnDemand is a web portal that provides a graphical user interface (GUI) to a supercomputer.
-This open-source project is developed and maintained by the Ohio Supercomputer Center (OSC); you can learn more at [https://openondemand.org/](https://openondemand.org/){:target="_blank"}.
+[Open OnDemand](https://openondemand.org/){:target="_blank"} is a web portal that provides a graphical user interface (GUI) to a supercomputer.
 
 You can access the Open OnDemand portal for Borah at [ondemand.boisestate.edu](https://ondemand.boisestate.edu){:target="_blank"}.
 
@@ -77,7 +76,7 @@ After launching the Jupyter Notebook interactive app and clicking "Connect to Ju
 From here you can select an existing notebook to work in or you can use the "New" button to create a new notebook in an existing kernel:
 ![Jupyter notebook landing page showing 'New' menu](images/ood-jupyter-landing.png "Jupyter notebook landing page showing 'New' menu")
 
-For more information about how to create a custom Jupyter kernel from a conda environment, please read the [using a conda environment with Open OnDemand](software/conda.md#using-a-conda-environment-with-open-ondemand) section.
+For more information about how to create a custom Jupyter kernel from a conda environment, please read the [using a conda environment with Open OnDemand](software/conda.md#using-an-environment-with-open-ondemand) section.
 And to use Julia in a Jupyter notebook, please read [Adding the Julia Kernel to OnDemand](software/julia.md)
 
 ### VS Code-Server
