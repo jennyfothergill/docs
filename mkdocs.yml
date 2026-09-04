@@ -63,7 +63,7 @@ copyright: <b>Research Computing</b><br>Riverfront Hall, Room 209, 1987 W Cesar 
 markdown_extensions:
   - attr_list
   - toc:
-    permalink: true
+      permalink: true
   - admonition
   - pymdownx.details
   - pymdownx.superfences
