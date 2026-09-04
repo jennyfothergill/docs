@@ -36,6 +36,7 @@ theme:
   features:
     - navigation.instant
     - navigation.sections
+    - toc.integrate
   name: material
   logo: images/boisestate-B-1color-orange-rgb.png
   favicon: images/boisestate-B-1color-orange-rgb.png
