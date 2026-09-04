@@ -9,11 +9,10 @@ Uses [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme
 ## To build locally
 
 1. Create a python environment containing the packages in requirements.txt.
-We recommend using [mambaforge](https://mamba.readthedocs.io/en/latest/installation.html).
+We recommend using [pixi](https://pixi.prefix.dev/latest/)
 
 2. Build the site and start the docs server:
 
 ```bash
-mkdocs build
-mkdocs serve
+pixi run properdocs serve -o
 ```
