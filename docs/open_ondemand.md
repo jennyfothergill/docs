@@ -76,7 +76,7 @@ After launching the Jupyter Notebook interactive app and clicking "Connect to Ju
 From here you can select an existing notebook to work in or you can use the "New" button to create a new notebook in an existing kernel:
 ![Jupyter notebook landing page showing 'New' menu](images/ood-jupyter-landing.png "Jupyter notebook landing page showing 'New' menu")
 
-For more information about how to create a custom Jupyter kernel from a conda environment, please read the [using a conda environment with Open OnDemand](software/conda.md#using-a-conda-environment-with-open-ondemand) section.
+For more information about how to create a custom Jupyter kernel from a conda environment, please read the [using a conda environment with Open OnDemand](software/conda.md#using-an-environment-with-open-ondemand) section.
 And to use Julia in a Jupyter notebook, please read [Adding the Julia Kernel to OnDemand](software/julia.md)
 
 ### VS Code-Server
